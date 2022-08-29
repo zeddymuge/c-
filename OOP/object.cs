@@ -4,7 +4,7 @@ namespace MyApplication
 {
   class Car
   {
-    string color = "red";
+    string color = "dark-red";
 
     static void Main(string[] args)
     {
